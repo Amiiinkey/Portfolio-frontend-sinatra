@@ -1,0 +1,18 @@
+.nav-link{
+    text-align: center;
+    display: inline-block;
+    text-decoration: none;
+    /* color: white; */
+    text-transform: uppercase;
+    font-weight: 300;
+    font-family: 'Lora',serif;
+    /* background-color: "#F7BD7"; */
+    padding: 20px;
+}
+.nav-link:hover{
+    background-color:  #eccfc7;
+}
+/* img{
+    width: 20px;
+    height: 20px;
+} */
