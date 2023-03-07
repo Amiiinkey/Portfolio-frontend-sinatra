@@ -1,5 +1,17 @@
 # Getting Started with Create React App
 
+- You can acces the github repository by visiting : 
+    - (https://github.com/Amiiinkey/Phase-3-project-portfolio-application.git)
+
+- You can also git clone using :
+    - (git@github.com:Amiiinkey/Phase-3-project-portfolio-application.git)
+
+- The back end of the this repo's github link is found : 
+    - (https://github.com/Amiiinkey/phase3-sinatra-project.git)
+
+- You can also git clone using :
+    - (git@github.com:Amiiinkey/phase3-sinatra-project.git)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
